@@ -27,7 +27,7 @@ When I work, I rely on
 ### My GitHub Stats
  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Banji's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=banjimas-dot&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Banji's GitHub Stats" />
   &nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true" alt="Banji's GitHub Streak" />
 </p>
@@ -54,7 +54,7 @@ When I work, I rely on
  
 ### GitHub Contribution Graph
  
-[![Banji's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Banji's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=banjimas-dot&theme=github-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 ---
  
