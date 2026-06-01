@@ -18,7 +18,7 @@ When I work, I rely on
  
 ### What I'm currently doing
  
-- 🏢 **Team Lead – Investor Accounting, Reporting & Treasury** at FSI Outsourcing, Lusaka
+- 🏢 **Senior Financial Analyst – Investor Accounting, Reporting & Treasury** at FSI Outsourcing, Lusaka
 - 📊 Pursuing **CA Advisory Professional in Accountancy** at ZICA *(in progress)*
 - 🏛️ Licentiate Member — Zambia Institute of Chartered Accountants *(since 2022)*
 ---
