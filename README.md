@@ -27,7 +27,7 @@ When I work, I rely on
 ### My GitHub Stats
  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=banjimas-dot&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Banji's GitHub Stats" />
+  < src="https://github-readme-stats.vercel.app/api?username=banjimas-dot&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Banji's GitHub Stats" />
   &nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=banjimas-dot&theme=dark&hide_border=true" alt="Banji's GitHub Streak" />
 </p>
@@ -41,7 +41,6 @@ When I work, I rely on
 | Mar 2024 – Jul 2025 | Financial Analyst I – Investor Accounting | FSI Outsourcing |
 | Sep 2022 – Feb 2024 | Junior Financial Analyst – Investor Accounting | FSI Outsourcing |
 | Feb 2022 – Sep 2022 | Audit Assistant I | UHY-AMO Certified Public Accountants |
-| Jan 2020 – Mar 2020 | Accounts Intern | African Grey Insurance Limited |
  
 ---
  
