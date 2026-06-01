@@ -2,7 +2,7 @@ Hi there, I'm Banji Masinja!
  
 ---
  
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=brightgreen&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=banjimas-dot&color=brightgreen&style=flat)
  
 When I work, I rely on
  
