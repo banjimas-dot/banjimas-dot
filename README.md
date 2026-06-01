@@ -27,9 +27,9 @@ When I work, I rely on
 ### My GitHub Stats
  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Banji's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=banjimas-dot&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Banji's GitHub Stats" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=banjimas-dot&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
  
