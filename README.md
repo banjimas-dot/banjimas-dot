@@ -19,7 +19,6 @@ When I work, I rely on
 ### What I'm currently doing
  
 - 🏢 **Team Lead – Investor Accounting, Reporting & Treasury** at FSI Outsourcing, Lusaka
-- 🎓 Studying **MSc Data Science** at the University of Zambia *(in progress)*
 - 📊 Pursuing **CA Advisory Professional in Accountancy** at ZICA *(in progress)*
 - 🏛️ Licentiate Member — Zambia Institute of Chartered Accountants *(since 2022)*
 ---
@@ -36,7 +35,8 @@ When I work, I rely on
  
 | Period | Role | Where |
 |---|---|---|
-| Aug 2025 – Present | Team Lead – Investor Accounting, Reporting & Treasury | FSI Outsourcing |
+| Apr 2026 – Present | Senior Financial Analyst – Investor Accounting, Reporting & Treasury | FSI Outsourcing |
+| Aug 2025 – Mar 2026 | Financial Analyst II – Investor Accounting, Reporting & Treasury | FSI Outsourcing |
 | Mar 2024 – Jul 2025 | Financial Analyst I – Investor Accounting | FSI Outsourcing |
 | Sep 2022 – Feb 2024 | Junior Financial Analyst – Investor Accounting | FSI Outsourcing |
 | Feb 2022 – Sep 2022 | Audit Assistant I | UHY-AMO Certified Public Accountants |
@@ -44,8 +44,7 @@ When I work, I rely on
 ---
  
 ### Education
- 
-- 🎓 **MSc Data Science** — University of Zambia *(2026 – Present)*
+
 - 📋 **CA Advisory Professional** — ZICA *(2025 – Present)*
 - 🎓 **BCom Accounting & Finance** (Merit) — Mulungushi University *(2017 – 2021)*
 ---
