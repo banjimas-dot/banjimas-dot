@@ -62,7 +62,7 @@ When I work, I rely on
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=banjimas-dot&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Banji's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=banjimas-dot&show_icons=true&theme=dark&hide_border=true&count_private=true" alt=" " />
   &nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=banjimas-dot&theme=dark&hide_border=true" alt="Banji's GitHub Streak" />
 </p>
